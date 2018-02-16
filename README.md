@@ -7,8 +7,7 @@ So this web extension simply adds "View Image" button to Google Image Search res
 
 
 ## Extensions
-* Firefox: https://addons.mozilla.org/en-US/firefox/addon/google-search-view-image/
-* Chrome: https://chrome.google.com/webstore/detail/google-search-view-image/hgngncnljacgakaiifjcgdnknaglfipo
+* Chrome: https://chrome.google.com/webstore/detail/google-images-search-view/ejpjaippaobnilbpiaecfkpockifgmjf
 
 
 ## Userscripts
