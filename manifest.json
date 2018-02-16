@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Google Search \"View Image\" Button",
-  "description": "Make view image button great again.",
-  "homepage_url": "https://github.com/devunt/make-gis-great-again",
+  "name": "Google Images Search \"View Image\" Button",
+  "description": "It's like the Google View Image button never left",
+  "homepage_url": "https://github.com/jasonephraim/make-gis-great-again/",
   "version": "1.1",
   "icons": {
     "48": "icons/icon.png",
